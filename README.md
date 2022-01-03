@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tadjas
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python for Statistical Analysis
 - 💞️ I’m looking to collaborate on QA projects
 - 📫 How to reach me tadjas1998@gmail.com
 
