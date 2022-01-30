@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tadjas
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python: Statistical Analysis and Mathematics for ML: Calculus
-- 💞️ I’m looking to collaborate on QA projects
+- 💞️ I’m looking for beginners which will be interested for new journey in DS.
 - 📫 How to reach me tadjas1998@gmail.com
 
 <!---
